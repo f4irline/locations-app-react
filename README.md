@@ -1,10 +1,10 @@
 # Locations App
 
-## A simple app to post locations using latitude and longitude values.
+## A simple app to add locations on a map.
 
 ### Introduction
 
-This is a very simple web app, where user can display locations on a map using latitude and
+This is a very simple web app, where user can add locations to a map using latitude and
 longitude values or by clicking on the map. The locations are saved in a database.
 
 ### The App
