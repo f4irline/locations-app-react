@@ -1,0 +1,5 @@
+.Column {
+    display: inline-block;
+    flex: 1;
+    margin-left: 5px;
+}
